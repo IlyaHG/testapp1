@@ -18,3 +18,5 @@
 - composer install (Данная команда установит зависимости)
 - php artisan migrate (Выполнятся миграции базы данных)
 - php artisan serve (Запустится локальный сервер Laravel)
+
+4. Пройти по ссылке http://"ваш-домен"/import-products

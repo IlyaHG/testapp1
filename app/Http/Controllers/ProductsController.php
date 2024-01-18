@@ -47,5 +47,5 @@ class ProductsController extends Controller
         return redirect(route("productsPage"));
     }
 
-    #TODO Разобраться с вью и дописать входную ссылку в ридми
+    #TODO Разобраться с вью
 }
